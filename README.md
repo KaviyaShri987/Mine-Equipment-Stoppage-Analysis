@@ -4,14 +4,14 @@
 This project analyzes mine equipment stoppage data using Microsoft Power BI to identify downtime patterns, equipment performance, and operational efficiency.
 
 ## Objectives
-  Analyze equipment stoppages
-  Identify major downtime reasons
-  Improve equipment utilization
-  Support data-driven decision making
+  -Analyze equipment stoppages
+  -Identify major downtime reasons
+  -Improve equipment utilization
+  -Support data-driven decision making
 
 ## Tools Used
- Microsoft Power BI
- Microsoft Excel
+ -Microsoft Power BI
+ -Microsoft Excel
 
 ## Dashboard Screenshots
 
@@ -34,7 +34,7 @@ This project analyzes mine equipment stoppage data using Microsoft Power BI to i
 ![Dashboard 6](Dashboard/img6.png)
 
 ## Insights
-  Equipment with maximum stoppage time identified.
-  Monthly stoppage trends analyzed.
-  Downtime categorized by reason.
-  Performance comparison across equipment.
+  -Equipment with maximum stoppage time identified.
+  -Monthly stoppage trends analyzed.
+  -Downtime categorized by reason.
+  -Performance comparison across equipment.
